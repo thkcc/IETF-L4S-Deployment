@@ -39,8 +39,8 @@ click “Open Anyway”.
    * If you try FaceTime on Mac, you can run the traffic generator on that same Mac
    * If you try FaceTime on iPhone or iPad, you can run the traffic generator on a Windows or Mac computer on the same router with the iPhone or iPad. 
 1. Make a FaceTime call from your Apple device to ...
-   * A person/device that is not connected via your modem; an iPhone in your house on cellular service with Wi-Fi disabled will do
-   * A person/device with iOS 17, iPadOS 17 or macOS 14 if possible
+   * A person/device that is **not connected via your modem**.  An iPhone in your house **on cellular service with Wi-Fi disabled** will do.  Connecting via your **neighbor's Xfinity Internet** works, too!
+   * Choose a device with iOS 17, iPadOS 17 or macOS 14 if possible
    * Ask the callee's OS version if possible 
 1. During the call, run the traffic generator
    * See if it affects your FaceTime experience
